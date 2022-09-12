@@ -1,0 +1,14 @@
+name: InventoryInterception
+version: '${project.version}'
+main: inventoryinterception.inventoryinterception.InventoryInterception
+api-version: 1.19
+authors: [ SakakiAruka ]
+description: if you are an administrator, you can see others inventory and ender chest inventory.
+website: https://github.com/Sakaki-Aruka
+commands:
+  interception:
+    permission: interception.op
+
+permissions:
+  interception:
+    default: op
