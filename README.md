@@ -4,6 +4,7 @@ You are able to peeping others inventory. (and can steal them.)
 ## /interception [x] [y]  
 - Set a target player name in [x]  
 - set a type of peeping in [y]  
+
 To use this command, you should be a administrator or you should have a permission "initerception.op".  
 ## Options description  
 ### Peeping type  
