@@ -1,5 +1,5 @@
 # PeepingInventory
-You are able to peeping others inventory. (and can steal them.)  
+can be able to peeping others inventory. (and can steal them.)  
 # How to Use this.  
 ## /interception [x] [y]  
 - Set a target player name instead [x]  
